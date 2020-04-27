@@ -1,0 +1,36 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Raahil Madhok"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+[[menu.main]]
+    name = "CV"
+    url = "/pdf/rmadhok_cv.pdf"
+    weight = 4
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+
+[params]
+    description = "Website of Raahil Madhok"
+    footer = "&copy; [Raahil Madhok](https://www.google.com) 2020 | [Github](https://github.com/rmadhok) | [Twitter](https://twitter.com/raamadhok)"
