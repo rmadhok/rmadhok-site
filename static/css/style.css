@@ -10,7 +10,7 @@ body {
 .menu li { display: inline-block; }
 .article-meta, .menu a {
   text-decoration: none;
-  background: #eee;
+  background: #eee; /* adjust for grey box around menu items */
   padding: 5px;
   border-radius: 5px;
 }
@@ -18,7 +18,7 @@ body {
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
 hr {
-  border-style: dashed;
+  border-style: solid; /* dashed line in header/footer; set dashed, solid, double, */
   color: #ddd;
 }
 
