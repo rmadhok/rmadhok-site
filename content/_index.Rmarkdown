@@ -2,8 +2,8 @@
 title: Home
 ---
 
-![Raahil](/img/headshot.jpg)
-<!-- <img src="/img/headshot.png" alt="Headshot" width="35%"style="float:right; margin:10px 10px 10px 10px;" /> -->
+<!-- ![Raahil](/img/headshot.jpg) -->
+<img src="/img/headshot.png" alt="Headshot" width="35%"style="float:right; margin:10px 10px 10px 10px;" />
 <!-- <img src="/./_index_files/headshot.jpg" alt="Headshot" width="35%"/> -->
 <!-- <img src="/img/headshot.jpg" alt="Headshot" width="35%"style="float:right; margin:10px 10px 10px 10px;" /> -->
 
