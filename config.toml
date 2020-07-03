@@ -31,6 +31,25 @@ footnotereturnlinkcontents = "↩"
     name = "blog"
     url = "/post/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
 [params]
     description = "Website of Raahil Madhok"
     footer = "&copy; [Raahil Madhok](https://www.google.com) 2020 | [Github](https://github.com/rmadhok) | [Twitter](https://twitter.com/raamadhok) | [Linkedin](https://www.linkedin.com/in/rmadhok/)"
