@@ -4,7 +4,7 @@ title: Home
 <img src="/img/headshot.jpg" alt="Headshot" width="35%" style="float:left; margin:10px 10px 10px 10px;" />
 <!-- ![Raahil](/img/resize.jpg) -->
 
-Welcome to my website. I am a 4th year PhD Student in the Food and Resource Economics Group at the [Faculty of Land and Food Systems](https://www.landfood.ubc.ca/), University of British Columbia. My research intersects environmental and development economics. I am a member of the [Centre for Food, Resource and Environmental Economics](https://cfree.landfood.ubc.ca/) (CFREE) and the [Wildlife and Conservation Economics Laboratory](http://wildconsecon.landfood.ubc.ca/). 
+Welcome to my website. I am a PhD Student in the Food and Resource Economics Group at the [Faculty of Land and Food Systems](https://www.landfood.ubc.ca/), University of British Columbia. My research intersects environmental and development economics. I am a member of the [Centre for Food, Resource and Environmental Economics](https://cfree.landfood.ubc.ca/) (CFREE) and the [Wildlife and Conservation Economics Laboratory](http://wildconsecon.landfood.ubc.ca/). 
 
 Broadly, I combine insights from economics and environmental science to study relationships between human activity and the environment. My current projects include recovering the economic value of biodiversity loss, estimating the cost of coal power plants on human health, and studying labour-capital substitution induced by migration. My geographic focus is mainly India. 
 
