@@ -10,4 +10,4 @@ Broadly, I combine insights from economics and environmental science to study re
 
 Before my PhD studies, I was an [EPoD](https://epod.cid.harvard.edu/) pre-doctoral fellow at Harvard University, completed an M.A. Economics at UBC, and was a Research Associate at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia).
 
-I can be reached via e-mail at <a href="mailto:madhokr@mail.ubc.ca">madhokr@mail.ubc.ca</a>
+I can be reached via e-mail at <a href="mailto:madhokr@mail.ubc.ca">madhokr@mail.ubc.ca</a> or <a href="mailto:madhok.raahil@gmail.com">madhok.raahil@gmail.com</a>
