@@ -7,11 +7,11 @@ title: "Research"
 * Killing Two Birds with One Stone: Conservation-Minded Infrastructure Development Can Mitigate Biodiversity Loss
     + [*Draft coming soon*]
     
-* Return of the Wings: Human Activity and Observed Avian Diversity in India (with Sumeet Gulati)
+* Changes in Avian Diversity during the COVID-19 Lockdown in India (with Sumeet Gulati)
     + [*Submitted*]
     
 ## Papers in Progress
 
+* Rural-Urban Migration and Technology Adoption in Agriculture (with Mushfiq Mobarak, Olivier Deschenes, and Frederik Noack)
 * Power Plants, Pollution and Health in India (with Rohini Pande, Anish Sugathan and Kevin Rowe) 
-* Migration and Labour-Capital Substitution in Agriculture (with Mushfiq Mobarak, Olivier Deschenes, and Frederik Noack)
-* Climate Externalities from the Global COVID-19 Response (with 6 co-authors)
+* Climate Externalities from the Global COVID-19 Response (with Jean-Philippe Bonardi, Quentin Gallea, Dimitrija Kalanoski, Rafael Lalive, Frederik Noack, Dominic Rohner, and Tommaso Sonno)
