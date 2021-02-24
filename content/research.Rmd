@@ -8,10 +8,10 @@ title: "Research"
     + [*Draft coming soon*]
     
 * Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID Lockdown (with Sumeet Gulati)
-    + [*Submitted*] [[preprint](https://www.biorxiv.org/content/10.1101/2020.12.15.422890v1)]
+    + [*Under Review*] [[preprint](https://www.biorxiv.org/content/10.1101/2020.12.15.422890v1)]
 
 * Saving the world from your couch: The heterogeneous medium-run benefits of COVID-19 lockdowns on air pollution (with Jean-Philippe Bonardi, Quentin Gallea, Dimitrija Kalanoski, Rafael Lalive, Frederik Noack, Dominic Rohner, and Tommaso Sonno)
-    + [*Submitted*] [[preprint](https://eartharxiv.org/repository/view/1882/)]
+    + [*Under Review*] [[preprint](https://eartharxiv.org/repository/view/1882/)]
     
 ## Papers in Progress
 
