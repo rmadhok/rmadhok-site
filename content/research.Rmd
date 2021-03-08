@@ -4,16 +4,16 @@ title: "Research"
 
 ## Working Papers
 
-* Killing Two Birds with One Stone: Conservation-Minded Infrastructure Development Can Mitigate Biodiversity Loss
-    + [*Draft coming soon*]
+* The Development-Biodiversity Tradeoff: Evidence from India's Tropical Forests
+    + [*Submitted*]
     
 * Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID Lockdown (with Sumeet Gulati)
     + [*Under Review*] [[preprint](https://www.biorxiv.org/content/10.1101/2020.12.15.422890v1)]
 
 * Saving the world from your couch: The heterogeneous medium-run benefits of COVID-19 lockdowns on air pollution (with Jean-Philippe Bonardi, Quentin Gallea, Dimitrija Kalanoski, Rafael Lalive, Frederik Noack, Dominic Rohner, and Tommaso Sonno)
-    + [*Under Review*] [[preprint](https://eartharxiv.org/repository/view/1882/)]
+    + [*R&R, Environmental Research Letters*] [[preprint](https://eartharxiv.org/repository/view/1882/)]
     
 ## Papers in Progress
 
 * Rural-Urban Migration and Technology Adoption in Agriculture (with Mushfiq Mobarak, Olivier Deschenes, and Frederik Noack)
-* Power Plants, Pollution and Child Health in India (with Rohini Pande, Anish Sugathan and Kevin Rowe)
+* Long-term Health Consequences of Coal Power Plants (with Rohini Pande, Anish Sugathan and Kevin Rowe)
