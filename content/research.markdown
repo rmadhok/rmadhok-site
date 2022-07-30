@@ -2,6 +2,11 @@
 title: "Research"
 ---
 
+## Job Market Paper
+
+* The Development-Biodiversity Tradeoff in India's Forests
+    + [*Email for Draft*]
+
 ## Publications
 
 * [Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown](https://www.sciencedirect.com/science/article/pii/S0006320722001501) (with Sumeet Gulati). *Biological Conservation, 2022*
@@ -24,14 +29,6 @@ In Spring 2020, COVID-19 led to an unprecedented halt in public and economic lif
 </details>
 </li> </ul>
 
-## Working Papers
-
-* The Development-Biodiversity Tradeoff in India's Forests
-    + [*Email for Draft*]
-
-<!-- [Angry Birds: The Development-Biodiversity Tradeoff in India's Tropical Forests](/pdf/madhok_2021_angrybirds.pdf) -->
-<!--     + [*Submitted*] -->
-    
 ## Papers in Progress
 
 * Internal Migration and the Spatial Organization of Agriculture (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)
