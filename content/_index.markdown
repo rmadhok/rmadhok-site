@@ -3,10 +3,19 @@ title: About
 ---
 <img src="/img/headshot.jpg" alt="Headshot" width="35%" style="float:left; margin:10px 10px 10px 10px;" />
 
-Welcome to my website. I am a PhD Candidate in the Food and Resource Economics Group at the [Faculty of Land and Food Systems](https://www.landfood.ubc.ca/), University of British Columbia. My research spans environmental and development economics. I am a member of the [Centre for Food, Resource and Environmental Economics](https://cfree.landfood.ubc.ca/) and the [Wildlife and Conservation Economics Lab](http://wildconsecon.landfood.ubc.ca/). I am also a Fellow at the [Center for India and South Asia Research](https://cisar.iar.ubc.ca/) at the UBC School of Public Policy. 
+I am a PhD Candidate in the Food and Resource Economics Group at the Faculty of Land and Food Systems, University of British Columbia. My research spans environmental and development economics.\
+**I am on the 2022/23 job market.**
 
-I combine insights from economics and environmental science to study relationships between human activity and the environment. My current projects include estimating the development-biodiversity tradeoff, studying labour-capital substitution in agriculture, and estimating long-run costs of coal power plants on human health. My geographic focus is mainly India.
+You can find my CV [here](/pdf/rmadhok_cv.pdf).
 
-Before my PhD, I was an [EPoD](https://epod.cid.harvard.edu/) pre-doctoral fellow at Harvard University, completed an M.A. Economics at UBC, and was a Research Associate at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia).
+My job market paper studies the extent to which economic development drives biodiversity loss in India. I document a substantial development-biodiversity tradeoff, and show that the tradeoff is largely mitigated under bottom-up institutions compared to extractive institutions.
 
-I can be reached via e-mail at <a href="mailto:madhokr@mail.ubc.ca">madhokr@mail.ubc.ca</a> or <a href="mailto:madhok.raahil@gmail.com">madhok.raahil@gmail.com</a>
+My other work studies structural change as well as the long-run environmental costs of coal power plants. I employ a mix of applied theory, modern empirical methods, and geospatial tools in my research. 
+
+Before my PhD, I was an [EPoD](https://epod.cid.harvard.edu/) pre-doctoral fellow at Harvard University, completed an M.A. Economics at UBC, and was a Research Associate at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia). I can be reached via e-mail at <a href="mailto:madhokr@mail.ubc.ca">madhokr@mail.ubc.ca</a>
+
+### Recent Updates
+* 20/07/2022: I am presenting my JMP (egg-timer) at the NBER Summer Institute (EEE) on July 26th, 2022 
+* 06/06/2022: My [paper](https://www.sciencedirect.com/science/article/pii/S0006320722001501) on ecological impacts of COVID lockdowns (with S. Gulati) covered in [Nature India](https://www.nature.com/articles/d44151-022-00060-2)
+* 01/06/2022: I will present my structural transformation paper at [OSWEET](https://edrub.in/osweet.html) on June 10th, 2022
+* 31/05/2022: I will present my JMP at the AERE Summer Conference on June 3rd, 2022

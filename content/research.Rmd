@@ -7,6 +7,16 @@ title: "Research"
 * The Development-Biodiversity Tradeoff in India's Forests
     + [*Draft Coming Soon*]
 
+## Papers in Progress
+
+* Internal Migration and the Spatial Organization of Agriculture (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)
+<ul> <li style="list-style-type: none;"> 
+<details> <summary>&nbsp;[ABSTRACT][*Draft Coming Soon*]</summary>
+This paper documents how agricultural development unfolds in the face of sectoral labour reallocation. We use detailed household panel data from India to estimate the impact of labour out-migration on agricultural investment and production decisions. We leverage distance-weighted destination productivity shocks to isolate exogenous variation in migration incentives. Labour loss reduces agricultural development, measured by capital investment and crop revenue. These effects are driven by large farms with less surplus labour. Our results do not imply that urbanization will threaten food security in India. Instead, we provide evidence of a spatial reorganization of agriculture. Production declines are concentrated in peri-urban areas, but remote households facing high migration costs increase production in response to rising demand and higher prices. Our results are consistent with a two-sector general equilibrium model that decomposes the labour and price effects of labour loss.
+</details>
+</li> </ul>
+<br>
+* The Long-Run Health Consequences of Coal Power Plants (with Rohini Pande, Anish Sugathan and Kevin Rowe)
 
 ## Publications
 
@@ -29,14 +39,3 @@ In Spring 2020, COVID-19 led to an unprecedented halt in public and economic lif
 [UBC Press Release](https://news.ubc.ca/2021/04/06/covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world/), [VoxEU](https://voxeu.org/article/pollution-reductions-during-lockdowns-can-teach-us-how-build-back-better), [The Conversation](https://theconversation.com/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution-158356), [I by IMD](https://iby.imd.org/sustainability/stay-home-to-save-the-world-not-so-fast/), [National Post](https://nationalpost.com/pmn/news-pmn/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution), [Global TV](https://globalnews.ca/video/7742442/ubc-study-finds-pollution-did-not-decrease-everywhere-during-pandemic/), [Vancouver is awesome](https://www.vancouverisawesome.com/coronavirus-covid-19-local-news/heres-why-covid-19-lockdowns-only-reduced-air-pollution-in-parts-of-the-world-3607865), [InfoTel](https://infotel.ca/newsitem/canada-saw-30-decrease-in-air-pollution-during-first-wave-lockdown-ubc-study/it82126), [24heures (French)](https://www.24heures.ch/la-pollution-a-baisse-beaucoup-plus-que-lactivite-economique-756413910716), [Radio Canada Internacional (Spanish)](https://www.rcinet.ca/es/2021/04/13/el-confinamiento-no-redujo-la-contaminacion-del-aire-tanto-como-se-esperaba/), [Spice Podcast](https://soundcloud.com/user-244969524-696484203/ubc-study-found-covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world)
 </details>
 </li> </ul>
-
-## Papers in Progress
-
-* Internal Migration and the Spatial Organization of Agriculture (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)
-<ul> <li style="list-style-type: none;"> 
-<details> <summary>&nbsp;[ABSTRACT][*Draft Coming Soon*]</summary>
-This paper documents how agricultural development unfolds in the face of sectoral labour reallocation. We use detailed household panel data from India to estimate the impact of labour out-migration on agricultural investment and production decisions. We leverage distance-weighted destination productivity shocks to isolate exogenous variation in migration incentives. Labour loss reduces agricultural development, measured by capital investment and crop revenue. These effects are driven by large farms with less surplus labour. Our results do not imply that urbanization will threaten food security in India. Instead, we provide evidence of a spatial reorganization of agriculture. Production declines are concentrated in peri-urban areas, but remote households facing high migration costs increase production in response to rising demand and higher prices. Our results are consistent with a two-sector general equilibrium model that decomposes the labour and price effects of labour loss.
-</details>
-</li> </ul>
-<br>
-* The Long-Run Health Consequences of Coal Power Plants (with Rohini Pande, Anish Sugathan and Kevin Rowe)
