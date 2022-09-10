@@ -16,16 +16,16 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "CV"
+    url = "/pdf/rmadhok_cv.pdf"
+    weight = 2
+[[menu.main]]
     name = "Research"
     url = "/research/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Teaching"
     url = "/teaching/"
-    weight = 3
-[[menu.main]]
-    name = "CV"
-    url = "/pdf/rmadhok_cv.pdf"
     weight = 4
 #[[menu.main]]
  #   name = "blog"
