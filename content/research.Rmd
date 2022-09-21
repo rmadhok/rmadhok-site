@@ -4,7 +4,7 @@ title: "Research"
 
 ## Job Market Paper
 
-* [**"The Development-Biodiversity Tradeoff in India's Forests"**](/pdf/rmadhok_jmp_2022.pdf)
+* [**"The Development-Biodiversity Tradeoff in India's Forests"**](/pdf/rmadhok_jmp_2022.pdf) (*Job Market Paper*)
 
     + *Abstract*: Biodiversity in the tropics is severely threatened by land use change. This paper studies
 the extent to which infrastructure development degrades biodiversity in India and, secondly,
