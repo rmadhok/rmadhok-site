@@ -6,7 +6,7 @@ title: About
 I am a PhD Candidate in the Food and Resource Economics Group at the Faculty of Land and Food Systems, University of British Columbia. My research spans environmental and development economics.\
 **I am on the 2022/23 academic job market.** [Here](/pdf/rmadhok_cv.pdf) is my CV.
 
-My [job market paper](/pdf/rmadhok_jmp_2022.pdf) studies infrastructure development, deforestation, and biodiversity loss as well as the types of institutions that best balance development and conservation. My [other work](/research/) studies structural change and the geography of food production as well as the long-run health costs of coal power plants.
+My [job market paper](/pdf/rmadhok_jmp_2022.pdf) studies the extent to which infrastructure development erodes biodiversity in India and the role of decentralized forest governance for balancing development and conservation. My [other work](/research/) studies structural change and the geography of food production as well as the long-run health costs of coal power plants.
 
 Before my PhD, I was an [EPoD](https://epod.cid.harvard.edu/) fellow at Harvard, completed an M.A. Economics at UBC, and was a Research Associate at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia).
 
