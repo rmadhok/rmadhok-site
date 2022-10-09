@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-<img src="/img/headshot2.jpg" alt="Headshot" width="35%" style="float:left; margin:10px 10px 10px 10px;" />
+<img src="/img/headshot2.jpg" alt="Headshot" width="37%" style="float:left; margin:10px 10px 10px 10px;" />
 
 I am a PhD Candidate in the Food and Resource Economics Group at the Faculty of Land and Food Systems, University of British Columbia. My research spans environmental and development economics.\
 **I am on the 2022/23 academic job market.** [Here](/pdf/rmadhok_cv.pdf) is my CV.
@@ -11,8 +11,6 @@ My [job market paper](/pdf/rmadhok_jmp_2022.pdf) studies the extent to which inf
 Before my PhD, I was an [EPoD](https://epod.cid.harvard.edu/) fellow at Harvard, completed an M.A. Economics at UBC, and was a Research Associate at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia).
 
 Email: <a href="mailto:madhokr@mail.ubc.ca">madhokr@mail.ubc.ca</a>
-
-<br>
 
 ### Recent Updates
 * 04/10/2022: My migration and agriculture paper is out as a [Yale EGC discussion paper](/pdf/2022_rural_urban_agriculture.pdf) 
