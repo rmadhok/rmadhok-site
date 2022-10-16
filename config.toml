@@ -12,16 +12,16 @@ footnotereturnlinkcontents = "↩"
     note = "/note/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "Bio"
+    name = "About"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "CV"
-    url = "/pdf/rmadhok_cv.pdf"
-    weight = 2
-[[menu.main]]
     name = "Research"
     url = "/research/"
+    weight = 2
+[[menu.main]]
+    name = "CV"
+    url = "/pdf/rmadhok_cv.pdf"
     weight = 3
 [[menu.main]]
     name = "Teaching"
