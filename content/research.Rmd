@@ -22,7 +22,7 @@ title: "Research"
     
      + **Presented At**: OSWEET, Western Economic Association
 
-* **"The Long-Run Health Consequences of Coal Power Plants"** (*Email for Draft*)  
+* [**"The Long-Run Health Consequences of Coal Power Plants"**](/pdf/power_plants_india.pdf)  
 (with [Rohini Pande](https://campuspress.yale.edu/rpande/), [Anish Sugathan](https://www.iima.ac.in/web/faculty/faculty-profiles/anish-sugathan) and Kevin Rowe)
 
   + **Abstract**: This paper quantifies the long-run effects of India’s dramatic expansion of coal-fired electric
