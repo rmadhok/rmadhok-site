@@ -15,8 +15,8 @@ title: "Research"
 
 ## Working Papers
 
-* [**"Rural-Urban Migration and the Re-organization of Agriculture"**](/pdf/2022_rural_urban_agriculture.pdf) (*Yale EGC Discussion Paper No. 1095*)   
-(with [Frederik Noack](https://frederiknoack.landfood.ubc.ca/), [Mushfiq Mobarak](https://faculty.som.yale.edu/mushfiqmobarak/), and [Olivier Deschenes](https://www.olivierdeschenes.org/))
+* [**"Internal Migration and the Re-organization of Agriculture"**](/pdf/2022_rural_urban_agriculture.pdf) <-- **latest version!**   
+(with [Frederik Noack](https://frederiknoack.landfood.ubc.ca/), [Mushfiq Mobarak](https://faculty.som.yale.edu/mushfiqmobarak/), and [Olivier Deschenes](https://www.olivierdeschenes.org/)) [[*Yale EGC WP #1095*]](/pdf/2022_rural_urban_agriculture_egc.pdf)
 
     + **Abstract**: This paper studies the response of agricultural production to rural labor loss during the process of urbanization. Using household microdata from India and exogenous variation in migration induced by urban income shocks interacted with distance to cities, we document sharp declines in crop production among migrant-sending households residing near cities. Households with migration opportunities do not substitute agricultural labour with capital, nor do they adopt new agricultural machinery. Instead, they divest from agriculture altogether and cultivate less land. We use a two-sector general equilibrium model with crop and land markets to trace the ensuing spatial reorganization of agriculture. Other non-migrant village residents expand farming (land market channel) and farmers in more remote villages with fewer migration opportunities adopt yield-enhancing technologies and produce more crops (crop market channel). Counterfactual simulations show that over half of the aggregate food production losses driven by urbanization is mitigated by these spillovers. This leads to a spatial reorganization in which food production moves away from urban areas and towards remote areas with low emigration.
     
