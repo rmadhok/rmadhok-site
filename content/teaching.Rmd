@@ -4,8 +4,9 @@ title: Teaching
 
 <img src="/img/teaching.jpg" alt="Headshot" width="310" height="275" style="float:right; margin:10px 10px 10px 10px;" />
 
-## Instructor of Record 
-* FRE 460: Economics of Food Consumption (Winter 2022)
+## Instructor of Record
+* FRE 460: Economics of Food Consumption (Winter 2022)  
+[[Syllabus]](/pdf/460 Syllabus 2022-RM) [[Evaluations]](/pdf/FRE460evaluation.pdf)
 
 ## Teaching Assistant
 * LFS 500: Topics in PhD Microeconomics (2018-19)
