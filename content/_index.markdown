@@ -19,6 +19,6 @@ I have an MA Economics from UBC and a BA in Economics and Environmental Studies 
 Contact: <a href="mailto:madhokr@mail.ubc.ca">madhokr@mail.ubc.ca</a>
 
 ### Recent Updates
-* 21/04/2023: I will be presenting at the Occasional Workshop at UC Santa Barbara
-* 04/10/2022: My migration and agriculture paper is out as a [Yale EGC discussion paper](/pdf/2022_rural_urban_agriculture_egc.pdf) 
-* 29/09/2022: I discussed my [JMP](/pdf/rmadhok_jmp_2022.pdf) on the Ideas of India [Podcast](https://www.discoursemagazine.com/politics/2022/09/29/ideas-of-india-the-development-biodiversity-tradeoff-in-india/) ([*Spotify Link*](https://open.spotify.com/episode/0nzEilFXhLVgJNZkb8rCKD))
+* I will present at the Occasional Workshop at UC Santa Barbara on April 21st, 2023
+* My migration and agriculture paper is out as a [Yale EGC discussion paper](/pdf/2022_rural_urban_agriculture_egc.pdf) 
+* I discussed my [JMP](/pdf/rmadhok_jmp_2022.pdf) on the Ideas of India [Podcast](https://www.discoursemagazine.com/politics/2022/09/29/ideas-of-india-the-development-biodiversity-tradeoff-in-india/) ([*Spotify Link*](https://open.spotify.com/episode/0nzEilFXhLVgJNZkb8rCKD))
