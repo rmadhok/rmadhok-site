@@ -5,7 +5,7 @@ title: About
 
 <img src="/img/headshot3.jpeg" alt="Headshot" width="37%" style="float:left; margin:10px 10px 10px 10px;" />
 
-**In August 2023, I will join the Department of Applied Economics at the University of Minnesota as a postdoctoral fellow.** [Here](/pdf/rmadhok_cv.pdf) is my CV.
+**In August 2023, I will join the [Department of Applied Economics](https://apec.umn.edu/) at the University of Minnesota as a postdoctoral fellow.** [Here](/pdf/rmadhok_cv.pdf) is my CV.
 
 I am an environmental economist with research themes spanning development, agriculture, and political economy. My work studies how economic activity and institutions shape the environment. 
 
