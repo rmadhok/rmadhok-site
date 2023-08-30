@@ -9,10 +9,6 @@ title: About
 
 I am an environmental economist with research themes spanning development, agriculture, and political economy. My work studies how economic activity and institutions shape the environment. 
 
-<!--
-**My research spans environmental and development economics**. My [job market paper](/pdf/rmadhok_jmp_2022.pdf) studies the threat to biodiversity from infrastructure expansion and the role of decentralized institutions for mitigating the tradeoff. My [other work](/research/) studies [structural change and the organization of agriculture](/pdf/2022_rural_urban_agriculture.pdf) as well as the [long-run health costs of coal power plants](/pdf/power_plants_india.pdf).
--->
-
 I completed my PhD and MA from the University of British Columbia, and my BA from McGill University. I was previously an [EPoD](https://epod.cid.harvard.edu/) fellow at Harvard and a Research Associate at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia).
 
-Contact: <a href="mailto:madhok.raahil@gmail.com">madhok.raahil@gmail.com</a>
+Contact: <a href="mailto:rmadhok@umn.edu">rmadhok@umn.edu</a>
