@@ -3,7 +3,7 @@ title: About
 ---
 # Raahil Madhok
 
-<img src="/img/headshot3.jpeg" alt="Headshot" width="37%" style="float:left; margin:10px 10px 10px 10px;" />
+<img src="/img/headshot4.jpg" alt="Headshot" width="30%" style="float:left; margin: 10px 30px 10px 0px;" />
 
 **I am a Postdoctoral Fellow in the [Department of Applied Economics](https://apec.umn.edu/) at the University of Minnesota.** [Here](/pdf/rmadhok_cv.pdf) is my CV.
 
