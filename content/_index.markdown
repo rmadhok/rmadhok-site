@@ -5,7 +5,7 @@ title: About
 
 <img src="/img/headshot4.jpg" alt="Headshot" width="30%" style="float:left; margin: 10px 30px 10px 0px;" />
 
-**I am a Postdoctoral Fellow in the [Department of Applied Economics](https://apec.umn.edu/) at the University of Minnesota.** [Here](/pdf/rmadhok_cv.pdf) is my CV.
+**I am a President's Postdoctoral Fellow in the [Department of Applied Economics](https://apec.umn.edu/) at the University of Minnesota.** [Here](/pdf/rmadhok_cv.pdf) is my CV.
 
 I am an environmental economist with research themes spanning development, agriculture, and political economy. My work studies how economic activity and institutions shape the environment. 
 
