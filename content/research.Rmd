@@ -4,7 +4,7 @@ title: "Research"
 
 ## Publications
 
-* [**Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
+* [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
 (with Sumeet Gulati). ***Biological Conservation, 2022***
 <ul><li style="list-style-type: none;">
 <details> <summary><u><span style="color: blue">Summary</span></u></summary>
@@ -14,7 +14,7 @@ title: "Research"
 </details>
 </li></ul>
 <br>
-* [**Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
+* [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
 (with Jean-Philippe Bonardi, Quentin Gallea, Dimitrija Kalanoski, Rafael Lalive, Frederik Noack, Dominic Rohner, and Tommaso Sonno). ***Environmental Research Letters, 2021***
 <ul><li style="list-style-type: none;">
 <details> <summary><u><span style="color: blue">Summary</span></u></summary>
@@ -26,7 +26,7 @@ title: "Research"
 
 ## Working Papers
 
-* [**Infrastructure, Institutions, and the Conservation of Biodiversity in India**](/pdf/rmadhok_jmp_2022.pdf). *Submitted*  
+* [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](/pdf/rmadhok_jmp_2022.pdf) ***Submitted***  
 <ul><li style="list-style-type: none;">
 <details> <summary><u><span style="color: blue">Summary</span></u></summary>
   + **Abstract**: Biodiversity in the tropics is severely threatened by land use change. This paper studies how infrastructure expansion degrades biodiversity in India and the role of local institutions in mitigating the tradeoff. Combining new data on infrastructure-driven deforestation with one million birdwatching diaries, and using within-observer variation for identification, I document a sizeable infrastructure-biodiversity tradeoff. Transport, irrigation, resettlement camps, and mining projects account for 20\% of total species loss.  Publicly owned projects are especially harmful, and species diversity does not recover in the medium run. Lastly, I find that species loss is more than halved when local institutions enable marginalized communities, who are excluded from project planning, to mobilize around their interests. Informed consent by indigenous tribes is a key mechanism, underscoring the importance of grassroots institutions for balancing development and conservation.
@@ -37,7 +37,7 @@ title: "Research"
 </details>
 </li></ul>
 <br>
-* [**Internal Migration and the Reorganization of Agriculture**](/pdf/2022_rural_urban_agriculture.pdf) <span style="color:red"> (New Draft!) </span>  
+* [**"Internal Migration and the Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf) ***Submitted***  
 (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)
 <ul><li style="list-style-type: none;"> 
 <details> <summary><u><span style="color: blue">Summary</span></u></summary>
@@ -47,15 +47,15 @@ title: "Research"
 </details>
 </li></ul>
 <br>
-* **The Long-Run Health Consequences of Coal Power Plants**  (*email for draft*)  
+* **"The Long-Run Health Consequences of Coal Power Plants."**  (*email for draft*)  
 (with Rohini Pande, Anish Sugathan, and Kevin Rowe)
 
 ## Selected Work in Progress
 
-* Tribal Forest Rights and Firm Sorting 
+* "Tribal Forest Rights and Firm Behaviour." 
 
-* The Political Economy of Compensation for Human-Wildlife Conflict  
+* "The Political Economy of Compensation for Human-Wildlife Conflict."  
 (with Sumeet Gulati and Pushpendra Rana)
 
-* The Socio-economic Impacts of Cashew Plantations in Benin  
+* "The Socio-economic Impacts of Cashew Plantations in Benin."  
 (with Zhenong Jin and Leikun Yin)
