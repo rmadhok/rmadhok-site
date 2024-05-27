@@ -6,53 +6,53 @@ title: "Research"
 
 * [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
 (with Sumeet Gulati). ***Biological Conservation, 2022***
-<ul><li style="list-style-type: none;">
-<details> <summary><u><span style="color: blue">Summary</span></u></summary>
-  + **Abstract**: As we retreated to our dwellings in the “anthropause” of spring 2020, were the wildlife sightings in previously crowded spaces a reclamation of habitat, or a mere increase in detection? We leverage an increase in balcony birdwatching, a million eBird entries, and difference-in-difference techniques to test if urban avian species richness rose during India's COVID-19 lockdown. Controlling for effort, birdwatchers in the 20 most populous cities observed a 16% increase in the number of species during lockdown. While human activity stopped overnight, and noise and visual pollution decreased soon after, increased species diversity was observed 1–2 weeks later; evidence that gradual population recovery, not better detection, underlay our results. We find at-risk, and rare, species among those reclaiming cities, implying that reducing human disturbance in urban areas can protect threatened species. Increased species diversity likely derives from a reduction in noise and air pollution associated with the lockdown, implying that urban planners should consider conservation co-benefits of urban policies when designing sustainable cities.
-  
-  + **Media**: [Nature India](https://www.nature.com/articles/d44151-022-00060-2)
-</details>
-</li></ul>
-<br>
+<!-- <ul><li style="list-style-type: none;"> -->
+<!-- <details> <summary><u><span style="color: blue">Summary</span></u></summary> -->
+<!--   + **Abstract**: As we retreated to our dwellings in the “anthropause” of spring 2020, were the wildlife sightings in previously crowded spaces a reclamation of habitat, or a mere increase in detection? We leverage an increase in balcony birdwatching, a million eBird entries, and difference-in-difference techniques to test if urban avian species richness rose during India's COVID-19 lockdown. Controlling for effort, birdwatchers in the 20 most populous cities observed a 16% increase in the number of species during lockdown. While human activity stopped overnight, and noise and visual pollution decreased soon after, increased species diversity was observed 1–2 weeks later; evidence that gradual population recovery, not better detection, underlay our results. We find at-risk, and rare, species among those reclaiming cities, implying that reducing human disturbance in urban areas can protect threatened species. Increased species diversity likely derives from a reduction in noise and air pollution associated with the lockdown, implying that urban planners should consider conservation co-benefits of urban policies when designing sustainable cities. -->
+
+<!--   + **Media**: [Nature India](https://www.nature.com/articles/d44151-022-00060-2) -->
+<!-- </details> -->
+<!-- </li></ul> -->
+<!-- <br> -->
 * [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
 (with Jean-Philippe Bonardi, Quentin Gallea, Dimitrija Kalanoski, Rafael Lalive, Frederik Noack, Dominic Rohner, and Tommaso Sonno). ***Environmental Research Letters, 2021***
-<ul><li style="list-style-type: none;">
-<details> <summary><u><span style="color: blue">Summary</span></u></summary>
-  + **Abstract**: In Spring 2020, COVID-19 led to an unprecedented halt in public and economic life across the globe. In an otherwise tragic time, this provides a unique natural experiment to investigate the environmental impact of such a (temporary) 'de-globalization'. Here, we estimate the medium-run impact of a battery of COVID-19 related lockdown measures on air quality across 162 countries, going beyond the existing short-run estimates from a limited number of countries. In doing so, we leverage a new dataset categorizing lockdown measures and tracking their implementation and release, extending to 31 August 2020. We find that domestic and international lockdown measures overall led to a decline in PM2.5 pollution by 45% and 35%, respectively. This substantial impact persists in the medium-run, even as lockdowns are lifted, there is, however, substantial heterogeneity across different types of lockdown measures, different countries, and different sources of pollution. We show that some country trajectories are much more appealing (with fewer COVID-19 casualties, less economic downturn and bigger pollution reductions) than others. Our results have important policy implications and highlight the potential to 'build back better' a sustainable economy where pollution can be curbed in a less economically costly way than during the COVID-19 pandemic.
+<!-- <ul><li style="list-style-type: none;"> -->
+<!-- <details> <summary><u><span style="color: blue">Summary</span></u></summary> -->
+<!--   + **Abstract**: In Spring 2020, COVID-19 led to an unprecedented halt in public and economic life across the globe. In an otherwise tragic time, this provides a unique natural experiment to investigate the environmental impact of such a (temporary) 'de-globalization'. Here, we estimate the medium-run impact of a battery of COVID-19 related lockdown measures on air quality across 162 countries, going beyond the existing short-run estimates from a limited number of countries. In doing so, we leverage a new dataset categorizing lockdown measures and tracking their implementation and release, extending to 31 August 2020. We find that domestic and international lockdown measures overall led to a decline in PM2.5 pollution by 45% and 35%, respectively. This substantial impact persists in the medium-run, even as lockdowns are lifted, there is, however, substantial heterogeneity across different types of lockdown measures, different countries, and different sources of pollution. We show that some country trajectories are much more appealing (with fewer COVID-19 casualties, less economic downturn and bigger pollution reductions) than others. Our results have important policy implications and highlight the potential to 'build back better' a sustainable economy where pollution can be curbed in a less economically costly way than during the COVID-19 pandemic. -->
 
-  + **Media**: [UBC Press Release](https://news.ubc.ca/2021/04/06/covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world/), [VoxEU](https://voxeu.org/article/pollution-reductions-during-lockdowns-can-teach-us-how-build-back-better), [The Conversation](https://theconversation.com/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution-158356), [I by IMD](https://iby.imd.org/sustainability/stay-home-to-save-the-world-not-so-fast/), [National Post](https://nationalpost.com/pmn/news-pmn/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution), [Global TV](https://globalnews.ca/video/7742442/ubc-study-finds-pollution-did-not-decrease-everywhere-during-pandemic/), [Vancouver is awesome](https://www.vancouverisawesome.com/coronavirus-covid-19-local-news/heres-why-covid-19-lockdowns-only-reduced-air-pollution-in-parts-of-the-world-3607865), [InfoTel](https://infotel.ca/newsitem/canada-saw-30-decrease-in-air-pollution-during-first-wave-lockdown-ubc-study/it82126), [24heures (French)](https://www.24heures.ch/la-pollution-a-baisse-beaucoup-plus-que-lactivite-economique-756413910716), [Radio Canada Internacional (Spanish)](https://www.rcinet.ca/es/2021/04/13/el-confinamiento-no-redujo-la-contaminacion-del-aire-tanto-como-se-esperaba/), [Spice Podcast](https://soundcloud.com/user-244969524-696484203/ubc-study-found-covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world)
-</details>
-</li></ul>
+<!--   + **Media**: [UBC Press Release](https://news.ubc.ca/2021/04/06/covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world/), [VoxEU](https://voxeu.org/article/pollution-reductions-during-lockdowns-can-teach-us-how-build-back-better), [The Conversation](https://theconversation.com/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution-158356), [I by IMD](https://iby.imd.org/sustainability/stay-home-to-save-the-world-not-so-fast/), [National Post](https://nationalpost.com/pmn/news-pmn/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution), [Global TV](https://globalnews.ca/video/7742442/ubc-study-finds-pollution-did-not-decrease-everywhere-during-pandemic/), [Vancouver is awesome](https://www.vancouverisawesome.com/coronavirus-covid-19-local-news/heres-why-covid-19-lockdowns-only-reduced-air-pollution-in-parts-of-the-world-3607865), [InfoTel](https://infotel.ca/newsitem/canada-saw-30-decrease-in-air-pollution-during-first-wave-lockdown-ubc-study/it82126), [24heures (French)](https://www.24heures.ch/la-pollution-a-baisse-beaucoup-plus-que-lactivite-economique-756413910716), [Radio Canada Internacional (Spanish)](https://www.rcinet.ca/es/2021/04/13/el-confinamiento-no-redujo-la-contaminacion-del-aire-tanto-como-se-esperaba/), [Spice Podcast](https://soundcloud.com/user-244969524-696484203/ubc-study-found-covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world) -->
+<!-- </details> -->
+<!-- </li></ul> -->
 
 ## Working Papers
 
-* [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](/pdf/rmadhok_jmp_2022.pdf) ***Submitted***  
-<ul><li style="list-style-type: none;">
-<details> <summary><u><span style="color: blue">Summary</span></u></summary>
-  + **Abstract**: Anthropogenic land use change is the leading threat to biodiversity. This paper studies how forest encroachment by infrastructure degrades biodiversity and the role of local institutions in mitigating species loss. Combining new data from India on infrastructure-driven deforestation with one million birdwatching diaries, and using within-observer variation for identification, I document a sizeable infrastructure-biodiversity tradeoff. Forest encroachment by transport, irrigation, resettlement camps, and mining projects account for 20% of total species loss. Common and threatened species are particularly sensitive, and species diversity does not recover in the medium run. However, the extent of species loss is more than halved when local institutions enable marginalized communities, who are excluded from project planning, to mobilize around their interests. Informed consent between developers and tribal communities is a key mechanism, underscoring the importance of inclusive institutions for balancing development and conservation.
+* [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](/pdf/rmadhok_jmp_2022.pdf) [[podcast]](https://ideasofindia.libsyn.com/next-guest) ***Submitted***  
+<!-- <ul><li style="list-style-type: none;"> -->
+<!-- <details> <summary><u><span style="color: blue">Summary</span></u></summary> -->
+<!--   + **Abstract**: Anthropogenic land use change is the leading threat to biodiversity. This paper studies how forest encroachment by infrastructure degrades biodiversity and the role of local institutions in mitigating species loss. Combining new data from India on infrastructure-driven deforestation with one million birdwatching diaries, and using within-observer variation for identification, I document a sizeable infrastructure-biodiversity tradeoff. Forest encroachment by transport, irrigation, resettlement camps, and mining projects account for 20% of total species loss. Common and threatened species are particularly sensitive, and species diversity does not recover in the medium run. However, the extent of species loss is more than halved when local institutions enable marginalized communities, who are excluded from project planning, to mobilize around their interests. Informed consent between developers and tribal communities is a key mechanism, underscoring the importance of inclusive institutions for balancing development and conservation. -->
 
-  + **Presented At**: World Bank, Keio University, NBER Summer Institute (Environment & Energy Economics), AERE Summer Conference, PacDev, Camp Resources, Columbia Sustainable Development Workshop, Canadian Resource and Environmental Economics Association
-  
-  + **Media**: [Ideas of India podcast](https://www.discoursemagazine.com/politics/2022/09/29/ideas-of-india-the-development-biodiversity-tradeoff-in-india/)
-</details>
-</li></ul>
-<br>
+<!--   + **Presented At**: World Bank, Keio University, NBER Summer Institute (Environment & Energy Economics), AERE Summer Conference, PacDev, Camp Resources, Columbia Sustainable Development Workshop, Canadian Resource and Environmental Economics Association -->
+
+<!--   + **Media**: [Ideas of India podcast](https://www.discoursemagazine.com/politics/2022/09/29/ideas-of-india-the-development-biodiversity-tradeoff-in-india/) -->
+<!-- </details> -->
+<!-- </li></ul> -->
+<!-- <br> -->
 * [**"Internal Migration and the Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf) ***Submitted***  
 (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)
-<ul><li style="list-style-type: none;"> 
-<details> <summary><u><span style="color: blue">Summary</span></u></summary>
-  + **Abstract:** This paper studies how food production responds to agricultural labor loss during the process of urbanization. Building on a two-sector spatial equilibrium model with crop and land markets, we develop an estimation framework to track and quantify the ensuing spatial reorganization of agriculture. Using household microdata from India and exogenous variation in migration induced by urban income shocks, we document direct effects in response to labor loss and indirect effects as crop and land markets adjust. The direct effects are characterized by sharp declines in crop production, farm size, and technology investment among migrant sending households predominantly located near cities. The indirect effects are characterized by greater production, technology adoption and farm size expansion among remote households with no migrants. Counterfactual simulations show that the indirect market spillovers mitigate over three-fourths of the direct agricultural losses driven by urbanization. This process leads to a spatial reorganization in which agricultural production moves away from land near urban areas with high emigration towards remote areas with low emigration.
-  
-  + **Presented At**: UC San Diego 21CIC Seminar, Canadian Resource and Environmental Economics Association, 20th Occasional Workshop in Environmental and Resource Economics, OSWEET, PacDev, Western Economic Association
-</details>
-</li></ul>
-<br>
+<!-- <ul><li style="list-style-type: none;">  -->
+<!-- <details> <summary><u><span style="color: blue">Summary</span></u></summary> -->
+<!--   + **Abstract:** This paper studies how food production responds to agricultural labor loss during the process of urbanization. Building on a two-sector spatial equilibrium model with crop and land markets, we develop an estimation framework to track and quantify the ensuing spatial reorganization of agriculture. Using household microdata from India and exogenous variation in migration induced by urban income shocks, we document direct effects in response to labor loss and indirect effects as crop and land markets adjust. The direct effects are characterized by sharp declines in crop production, farm size, and technology investment among migrant sending households predominantly located near cities. The indirect effects are characterized by greater production, technology adoption and farm size expansion among remote households with no migrants. Counterfactual simulations show that the indirect market spillovers mitigate over three-fourths of the direct agricultural losses driven by urbanization. This process leads to a spatial reorganization in which agricultural production moves away from land near urban areas with high emigration towards remote areas with low emigration. -->
+
+<!--   + **Presented At**: UC San Diego 21CIC Seminar, Canadian Resource and Environmental Economics Association, 20th Occasional Workshop in Environmental and Resource Economics, OSWEET, PacDev, Western Economic Association -->
+<!-- </details> -->
+<!-- </li></ul> -->
+<!-- <br> -->
 * **"The Long-Run Health Consequences of Coal Power Plants."**  (*email for draft*)  
 (with Rohini Pande, Anish Sugathan, and Kevin Rowe)
 
 ## Selected Work in Progress
 
-* "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das)
+* "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das) [[slides]](/pdf/fra_slides.pdf)
 
 * "Ethnic Favouritism in Environmental Disaster Payouts."  
 (with Sumeet Gulati and Pushpendra Rana)
