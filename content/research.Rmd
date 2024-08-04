@@ -34,19 +34,20 @@ Revision Requested, **Journal of the Association of Environmental and Resource E
 
 ## Selected Works in Progress
 
-* "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das) [[slides]](/pdf/fra_slides.pdf) 
-<a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-1')">[abstract]</a>
+* "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das)
+[[slides]](/pdf/fra_slides.pdf) 
+<a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-1')">[abstract]</a>  
 
-<div id="dropdown-content-1" class="dropdown-content">
-  This paper studies how firms react to tribal forest rights. In 2008, India granted forest management rights to 200 million tribal individuals, including the right to informed consent with developers seeking to acquire tribal forestland. Using a novel firm-level panel and a difference-in-difference design, we find: i) firms acquire less land in tribal areas after the policy; 2) Total factor productivity increases, and; 3) large, unproductive firms are less affected by the policy. These results are consistent with a model of firm production with transaction costs for encroachment. To study conservation implications, we obtain deforestation permits awarded to developers and show that infrastructure-driven deforestation declines after the policy. Overall, our results imply that the policy was successful from a conservation standpoint. From a development standpoint, they imply that conservation policy is not necessarily anti-development but, rather, shifts the *composition* of economic activity toward larger industry. 
-</div>
+<div id="dropdown-content-1" class="dropdown-content">  
+This paper studies how firms react to tribal forest rights. In 2008, India granted forest management rights to 200 million tribal individuals, including the right to informed consent with developers seeking to acquire tribal forestland. Using a novel firm-level panel and a difference-in-difference design, we find: i) firms acquire less land in tribal areas after the policy; 2) Total factor productivity increases, and; 3) large, unproductive firms are less affected by the policy. These results are consistent with a model of firm production with transaction costs for encroachment. To study conservation implications, we obtain deforestation permits awarded to developers and show that infrastructure-driven deforestation declines after the policy. Overall, our results imply that the policy was successful from a conservation standpoint. From a development standpoint, they imply that conservation policy is not necessarily anti-development but, rather, shifts the *composition* of economic activity toward larger industry. 
+</div> 
 
 * "Ethnic Favoritism in Environmental Disaster Payouts."  
 (with Sumeet Gulati and Pushpendra Rana)
-<a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-2')">[abstract]</a>  
+<a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-2')">[abstract]</a> 
 
 <div id="dropdown-content-2" class="dropdown-content">  
-  This paper studies the role and extent of ethnic favoritism in environmental disaster payouts. We develop a political economy model where leaders must compensate citizens for disaster-related losses, and can discriminate against minorities in the process. We show that reserving political seats for minorities can remove discrimination and lead to higher payouts to minorities compared to general elections. We then empirically test the model using restricted access data on government compensation for human-wildlife conflict in the Himalayas. Descriptive facts show that tribal communities live closer to the forest, experience more conflict with animals, and are compensated less for human injury and death compared to non-tribal villages. Leveraging a population-based cutoff rule that determines which constituencies are reserved, together with a matched difference-in-difference design, we show that compensation for targeted groups dramatically increases under reservation. This is the case even compared to non-tribal villages within the same constituency. These results highlight the importance of ethnic favoritism in achieving environmental justice, especially in settings with weak institutions. 
+This paper studies the role and extent of ethnic favoritism in environmental disaster payouts. We develop a political economy model where leaders must compensate citizens for disaster-related losses, and can discriminate against minorities in the process. We show that reserving political seats for minorities can remove discrimination and lead to higher payouts to minorities compared to general elections. We then empirically test the model using restricted access data on government compensation for human-wildlife conflict in the Himalayas. Descriptive facts show that tribal communities live closer to the forest, experience more conflict with animals, and are compensated less for human injury and death compared to non-tribal villages. Leveraging a population-based cutoff rule that determines which constituencies are reserved, together with a matched difference-in-difference design, we show that compensation for targeted groups dramatically increases under reservation. This is the case even compared to non-tribal villages within the same constituency. These results highlight the importance of ethnic favoritism in achieving environmental justice, especially in settings with weak institutions.
 </div> 
 
 * "The Development-Environment Tradeoff from Cash Crops: Evidence from Cashew Farming in Benin"  
