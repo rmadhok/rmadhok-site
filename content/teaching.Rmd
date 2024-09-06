@@ -2,15 +2,16 @@
 title: Teaching
 ---
 
-<img src="/img/teaching.jpg" alt="Headshot" width="310" height="275" style="float:right; margin:10px 10px 10px 10px;" />
+<!-- <img src="/img/teaching.jpg" alt="Headshot" width="310" height="275" style="float:right; margin:10px 10px 10px 10px;" /> -->
 
 ## Instructor of Record
-* FRE 460: Economics of Food Consumption (Winter 2022)  
+* APEC 8990: Environmental \& Development Economics (UMN, Fall 2024, Graduate)
+* FRE 460: Economics of Food Consumption (UBC, Winter 2022, Undergraduate)  
 [[Syllabus]](/pdf/FRE460Syllabus-RM.pdf) [[Evaluations]](/pdf/FRE460evaluation.pdf)
 
-## Teaching Assistant
-* LFS 500: Topics in PhD Microeconomics (2018-19)
-* GPP 502: International Macroeconomics (2018-19)
-* ECON 302: Intermediate Macroeconomics (2017-18)
-* ECON 101: Introductory Microeconomics (2014-15)
-* ECON 102: Introductory Macroeconomics (2014-15)
+<!-- ## Teaching Assistant -->
+<!-- * LFS 500: Topics in PhD Microeconomics (2018-19) -->
+<!-- * GPP 502: International Macroeconomics (2018-19) -->
+<!-- * ECON 302: Intermediate Macroeconomics (2017-18) -->
+<!-- * ECON 101: Introductory Microeconomics (2014-15) -->
+<!-- * ECON 102: Introductory Macroeconomics (2014-15) -->
