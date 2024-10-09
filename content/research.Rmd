@@ -29,6 +29,10 @@ Revision Requested, **Journal of the Association of Environmental and Resource E
 
 <!--   + **Presented At**: UC San Diego 21CIC Seminar, Canadian Resource and Environmental Economics Association, 20th Occasional Workshop in Environmental and Resource Economics, OSWEET, PacDev, Western Economic Association -->
 
+* [**"The Development-Environment Tradeoff from Cash Crops: Evidence from Benin."**](/pdf/cashews_benin.pdf) 
+(with Zhenong Jin and Leikun Yin)
+
+
 * **"The Long-Run Health Consequences of Coal Power Plants."**  (email for draft)  
 (with Rohini Pande, Anish Sugathan, and Kevin Rowe)
 
@@ -50,10 +54,4 @@ This paper studies how firms react to tribal forest rights. In 2008, India grant
 This paper studies the role and extent of ethnic favoritism in environmental disaster payouts. We develop a political economy model where leaders must compensate citizens for disaster-related losses, and can discriminate against minorities in the process. We show that reserving political seats for minorities can remove discrimination and lead to higher payouts to minorities compared to general elections. We then empirically test the model using restricted access data on government compensation for human-wildlife conflict in the Himalayas. Descriptive facts show that tribal communities live closer to the forest, experience more conflict with animals, and are compensated less for human injury and death compared to non-tribal villages. Leveraging a population-based cutoff rule that determines which constituencies are reserved, together with a matched difference-in-difference design, we show that compensation for targeted groups dramatically increases under reservation. This is the case even compared to non-tribal villages within the same constituency. These results highlight the importance of ethnic favoritism in achieving environmental justice, especially in settings with weak institutions.
 </div> 
 
-* "The Development-Environment Tradeoff from Cash Crops: Evidence from Benin"  
-(with Zhenong Jin and Leikun Yin)
-<a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-3')">[abstract]</a>  
-
-<div id="dropdown-content-3" class="dropdown-content">  
-  Nearly half of the world's cashews are grown in West Africa. This paper investigates the development-environment tradeoff from cashew farming in Benin using novel, high-resolution data on cashew plantations from 2015-2021. We document large income gains at the expense of forest cover. We identify this tradeoff with cross-sectional comparisons on household survey data, two-way fixed effects with panel data, and an instrumental variables design using global cashew prices to instrument local cultivation. A 10 percentage point increase in land share under cashew cultivation increases local GDP by 1.3%, but reduces forest cover by 2.6%. Cost-benefit calculations show that doubling cultivation would generate \$USD 66 million in aggregate income gains but cost \$USD 147 million in terms of forest loss. 
-</div> 
+* "Environmental Spillovers from Aerial Coca Eradication." (with Tatiana Zarate-Barrera)
