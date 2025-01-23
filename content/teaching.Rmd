@@ -5,7 +5,7 @@ title: Teaching
 <!-- <img src="/img/teaching.jpg" alt="Headshot" width="310" height="275" style="float:right; margin:10px 10px 10px 10px;" /> -->
 
 ## Instructor of Record
-* APEC 8990: Environmental \& Development Economics (UMN, Fall 2024, Graduate)
+* APEC 8990: Environmental \& Development Economics (UMN, Fall 2024, PhD) [[Course Material]](https://github.com/rmadhok/enviro-dev-grad)
 * FRE 460: Economics of Food Consumption (UBC, Winter 2022, Undergraduate)  
 [[Syllabus]](/pdf/FRE460Syllabus-RM.pdf) [[Evaluations]](/pdf/FRE460evaluation.pdf)
 
