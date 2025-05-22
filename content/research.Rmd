@@ -4,7 +4,7 @@ title: "Research"
 
 ## Publications
 
-* [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](/pdf/rmadhok_jmp_2022.pdf)  
+1. [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](/pdf/rmadhok_jmp_2022.pdf)  
 Forthcoming, **Journal of the Association of Environmental and Resource Economists**  
 [[appendix]](/pdf/jmp_appendix.pdf)[[podcast]](https://ideasofindia.libsyn.com/next-guest)[[commentary]](https://voxdev.org/topic/energy-environment/can-inclusive-institutions-balance-development-biodiversity-trade)
 
@@ -12,12 +12,12 @@ Forthcoming, **Journal of the Association of Environmental and Resource Economis
 
 <!--   + **Media**: [Ideas of India podcast](https://www.discoursemagazine.com/politics/2022/09/29/ideas-of-india-the-development-biodiversity-tradeoff-in-india/) -->
 
-* [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
+2. [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
 (with Sumeet Gulati). **Biological Conservation, 2022**
 
 <!--   + **Media**: [Nature India](https://www.nature.com/articles/d44151-022-00060-2) -->
 
-* [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
+3. [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
 (with Jean-Philippe Bonardi, Quentin Gallea, Dimitrija Kalanoski, Rafael Lalive, Frederik Noack, Dominic Rohner, and Tommaso Sonno). **Environmental Research Letters, 2021**
 
 <!--   + **Media**: [UBC Press Release](https://news.ubc.ca/2021/04/06/covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world/), [VoxEU](https://voxeu.org/article/pollution-reductions-during-lockdowns-can-teach-us-how-build-back-better), [The Conversation](https://theconversation.com/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution-158356), [I by IMD](https://iby.imd.org/sustainability/stay-home-to-save-the-world-not-so-fast/), [National Post](https://nationalpost.com/pmn/news-pmn/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution), [Global TV](https://globalnews.ca/video/7742442/ubc-study-finds-pollution-did-not-decrease-everywhere-during-pandemic/), [Vancouver is awesome](https://www.vancouverisawesome.com/coronavirus-covid-19-local-news/heres-why-covid-19-lockdowns-only-reduced-air-pollution-in-parts-of-the-world-3607865), [InfoTel](https://infotel.ca/newsitem/canada-saw-30-decrease-in-air-pollution-during-first-wave-lockdown-ubc-study/it82126), [24heures (French)](https://www.24heures.ch/la-pollution-a-baisse-beaucoup-plus-que-lactivite-economique-756413910716), [Radio Canada Internacional (Spanish)](https://www.rcinet.ca/es/2021/04/13/el-confinamiento-no-redujo-la-contaminacion-del-aire-tanto-como-se-esperaba/), [Spice Podcast](https://soundcloud.com/user-244969524-696484203/ubc-study-found-covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world) -->
@@ -25,23 +25,23 @@ Forthcoming, **Journal of the Association of Environmental and Resource Economis
 ## Working Papers
 
 
-* [**"Internal Migration and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf) **Submitted.**  
+1. [**"Internal Migration and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf) **Submitted.**  
 (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)
 
 <!--   + **Presented At**: UC San Diego 21CIC Seminar, Canadian Resource and Environmental Economics Association, 20th Occasional Workshop in Environmental and Resource Economics, OSWEET, PacDev, Western Economic Association -->
 
-* [**"The Development-Environment Tradeoff from Cash Crops: Evidence from Benin."**](/pdf/cashews_benin.pdf) **Submitted.**  
+2. [**"The Development-Environment Tradeoff from Cash Crops: Evidence from Benin."**](/pdf/cashews_benin.pdf) **Submitted.**  
 (with Zhenong Jin and Leikun Yin)
 
-* [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  
+3. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  
 (with Sumeet Gulati and Pushpendra Rana)
 
-* **"The Long-Run Health Consequences of Coal Power Plants."**  (currently on hold; email for draft)  
+4. **"The Long-Run Health Consequences of Coal Power Plants."**  (currently on hold; email for draft)  
 (with Rohini Pande, Anish Sugathan, and Kevin Rowe)
 
 ## Selected Works in Progress
 
-* "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das)
+1. "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das)
 [[slides]](/pdf/fra_slides.pdf) 
 <a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-1')">[abstract]</a>  
 
@@ -49,9 +49,11 @@ Forthcoming, **Journal of the Association of Environmental and Resource Economis
 This paper studies how firms react to tribal forest rights. In 2008, India granted forest management rights to 200 million tribal individuals, including the right to informed consent with developers seeking to acquire tribal forestland. Using a novel firm-level panel and a difference-in-difference design, we find: i) firms acquire less land in tribal areas after the policy; 2) Total factor productivity increases, and; 3) large, unproductive firms are less affected by the policy. These results are consistent with a model of firm production with transaction costs for encroachment. To study conservation implications, we obtain deforestation permits awarded to developers and show that infrastructure-driven deforestation declines after the policy. Overall, our results imply that the policy was successful from a conservation standpoint. From a development standpoint, they imply that conservation policy is not necessarily anti-development but, rather, shifts the *composition* of economic activity toward larger industry. 
 </div> 
 
-* "Off-Target Impacts of Targeted Policy: Evidence from Colombia." (with Tatiana Zarate-Barrera)
+2. "Off-Target Impacts of Targeted Policy: Evidence from Colombia." (with Tatiana Zarate-Barrera)
 <a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-2')">[abstract]</a>  
 
 <div id="dropdown-content-2" class="dropdown-content">  
 This paper studies off-target impacts of place-based policy in the context of Colombia’s war on drugs. Aerial fumigation of coca crops was the pillar of the country's anti-drug strategy, until the practice was banned in 2015 due to environmental concerns. Using a novel atmospheric dispersion model and a two-way fixed effects design, we show that wind drift from targeted spraying inflicted significant damage on legitimate, non-targeted agriculture. Difference-in-differences estimates show that, after the ban, municipalities previously exposed to aerial spraying experienced only a minimal rebound in crop production. These findings illustrate the persistence of negative spillovers from targeted policy, where the collateral damage outlasts the policy itself.
 </div> 
+
+3. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
