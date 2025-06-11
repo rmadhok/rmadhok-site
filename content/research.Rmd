@@ -59,4 +59,4 @@ This paper studies off-target impacts of place-based policy in the context of Co
 3. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
 
 4. "Decentralizing Forest Governance: A Clustered Randomized Experiment in the Himalayas."   
-(with Forrest Fleischman, Pushpendra Rana, Pooja Choksi, Harry Fischer, Eric Coleman, Erin Sills, Munib Khanyari, Kulbhushan Suryawanshi) [*status: baseline survey underway*]
+(with Forrest Fleischman, Pushpendra Rana, Pooja Choksi, Harry Fischer, Eric Coleman, Erin Sills, Munib Khanyari, Kulbhushan Suryawanshi) [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/16090)] [*status: baseline survey underway*]
