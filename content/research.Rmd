@@ -38,8 +38,13 @@ Revision Requested, **Land Economics**
 3. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
 (with Sumeet Gulati and Pushpendra Rana)
 
-4. **"The Long-Run Health Consequences of Coal Power Plants."**  (currently on hold; email for draft)  
-(with Rohini Pande, Anish Sugathan, and Kevin Rowe)
+4. **<u>"Off-Target Impacts of Targeted Policy: Evidence from Colombia."</u>** (email for draft)  
+(with Tatiana Zarate-Barrera)
+<a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-2')">[abstract]</a>  
+
+<div id="dropdown-content-2" class="dropdown-content">  
+This paper studies off-target impacts of targeted policy in the context of Colombia's war on drugs. Aerial fumigation of coca crops with glyphosate was the pillar of Colombia's anti-drug strategy, until the practice was banned in 2015 due to environmental and health concerns. Using a novel atmospheric dispersion model and a two-way fixed effects design, we show that wind drift from targeted spraying inflicted significant damage on non-targeted crops. The damage is persistent and adaptation is minimal. Difference-in-difference estimates show that, after the ban, municipalities previously exposed to aerial spraying experienced only minimal recovery in crop production. Cropland that failed to regenerate transitions toward other land uses. Despite the collateral damage, in 2025, Colombia announced plans to reinstate aerial spraying. Policy simulations show that 35,000 ha. of off-target crop damage can be avoided if the sprayed area is reduced by 10% under the new policy.
+</div> 
 
 ## Selected Works in Progress
 
@@ -51,17 +56,10 @@ Revision Requested, **Land Economics**
 Informal titles expose tribal land to commercial exploitation. We show that formalizing tribal forest rights reduces firm activity near tribal areas *on average*, but shifts the *composition* toward larger firms. We develop a model of firm behaviour in which titling raises land acquisition costs, disproportionately burdening smaller firms for whom these costs are more binding. We test the model using India's Forest Rights Act as a natural experiment, which granted forest rights to tribes in 2008. Using a firm panel and a difference-in-differences design, we find that firms' land valuations decline near tribal areas, but less so for larger firms. Conservation patterns reveal a similar pattern: deforestation permits and forest cover data show that industrial forest encroachment falls post-policy, but intrusions by larger projects persist. Our findings suggest a re-sorting rather than a retreat of development pressure on tribal land.
 </div> 
 
-2. "Off-Target Impacts of Targeted Policy: Evidence from Colombia." (with Tatiana Zarate-Barrera)
-<a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-2')">[abstract]</a>  
-
-<div id="dropdown-content-2" class="dropdown-content">  
-This paper studies off-target impacts of targeted policy in the context of Colombia's war on drugs. Aerial fumigation of coca crops with glyphosate was the pillar of Colombia's anti-drug strategy, until the practice was banned in 2015 due to environmental and health concerns. Using a novel atmospheric dispersion model and a two-way fixed effects design, we show that wind drift from targeted spraying inflicted significant damage on non-targeted crops. The damage is persistent and adaptation is minimal. Difference-in-difference estimates show that, after the ban, municipalities previously exposed to aerial spraying experienced only minimal recovery in crop production. Cropland that failed to regenerate transitions toward other land uses. Despite the collateral damage, in 2025, Colombia announced plans to reinstate aerial spraying. Policy simulations show that 35,000 ha. of off-target crop damage can be avoided if the sprayed area is reduced by 10% under the new policy.
-</div> 
-
-3. "Willingness to Pay for Biodiversity: Evidence from Recreation Demand."  
+2. "Willingness to Pay for Biodiversity: Evidence from Recreation Demand."  
 (with Matt Braaksma, Ryan Mcway, and Jovin Lasway) 
 
-4. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
+3. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
 
-5. "Decentralizing Forest Governance: A Clustered Randomized Experiment in the Himalayas."   
+4. "Decentralizing Forest Governance: A Clustered Randomized Experiment in the Himalayas."   
 (with Forrest Fleischman, Pushpendra Rana, Pooja Choksi, Harry Fischer, Eric Coleman, Erin Sills, Munib Khanyari, Kulbhushan Suryawanshi) [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/16090)] [*status: baseline survey completed*]
