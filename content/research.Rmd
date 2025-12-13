@@ -4,7 +4,10 @@ title: "Research"
 
 ## Publications
 
-1. [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](https://www.journals.uchicago.edu/doi/10.1086/735284)  
+1. [**"Cash Crops and The Development-Environment Tradeoff: Evidence from Benin."**](/pdf/cashews_benin.pdf)  
+(with Zhenong Jin and Leikun Yin). Forthcoming, **Land Economics** 
+
+2. [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](https://www.journals.uchicago.edu/doi/10.1086/735284)  
 **Journal of the Association of Environmental and Resource Economists, 2025**  
 [[pdf]](/pdf/rmadhok_jmp_2022.pdf)[[appendix]](/pdf/jmp_appendix.pdf)[[podcast]](https://ideasofindia.libsyn.com/next-guest)[[commentary]](https://voxdev.org/topic/energy-environment/can-inclusive-institutions-balance-development-biodiversity-trade)
 
@@ -12,12 +15,12 @@ title: "Research"
 
 <!--   + **Media**: [Ideas of India podcast](https://www.discoursemagazine.com/politics/2022/09/29/ideas-of-india-the-development-biodiversity-tradeoff-in-india/) -->
 
-2. [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
+3. [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
 (with Sumeet Gulati). **Biological Conservation, 2022**
 
 <!--   + **Media**: [Nature India](https://www.nature.com/articles/d44151-022-00060-2) -->
 
-3. [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
+4. [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
 (with Jean-Philippe Bonardi, Quentin Gallea, Dimitrija Kalanoski, Rafael Lalive, Frederik Noack, Dominic Rohner, and Tommaso Sonno). **Environmental Research Letters, 2021**
 
 <!--   + **Media**: [UBC Press Release](https://news.ubc.ca/2021/04/06/covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world/), [VoxEU](https://voxeu.org/article/pollution-reductions-during-lockdowns-can-teach-us-how-build-back-better), [The Conversation](https://theconversation.com/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution-158356), [I by IMD](https://iby.imd.org/sustainability/stay-home-to-save-the-world-not-so-fast/), [National Post](https://nationalpost.com/pmn/news-pmn/covid-19-lockdowns-improved-air-quality-in-some-cities-shedding-light-on-how-to-curb-pollution), [Global TV](https://globalnews.ca/video/7742442/ubc-study-finds-pollution-did-not-decrease-everywhere-during-pandemic/), [Vancouver is awesome](https://www.vancouverisawesome.com/coronavirus-covid-19-local-news/heres-why-covid-19-lockdowns-only-reduced-air-pollution-in-parts-of-the-world-3607865), [InfoTel](https://infotel.ca/newsitem/canada-saw-30-decrease-in-air-pollution-during-first-wave-lockdown-ubc-study/it82126), [24heures (French)](https://www.24heures.ch/la-pollution-a-baisse-beaucoup-plus-que-lactivite-economique-756413910716), [Radio Canada Internacional (Spanish)](https://www.rcinet.ca/es/2021/04/13/el-confinamiento-no-redujo-la-contaminacion-del-aire-tanto-como-se-esperaba/), [Spice Podcast](https://soundcloud.com/user-244969524-696484203/ubc-study-found-covid-19-lockdowns-only-reduced-air-pollution-in-some-parts-of-the-world) -->
@@ -31,14 +34,11 @@ title: "Research"
 
 <!--   + **Presented At**: UC San Diego 21CIC Seminar, Canadian Resource and Environmental Economics Association, 20th Occasional Workshop in Environmental and Resource Economics, OSWEET, PacDev, Western Economic Association -->
 
-2. [**"The Development-Environment Tradeoff from Cash Crops: Evidence from Benin."**](/pdf/cashews_benin.pdf)  
-(with Zhenong Jin and Leikun Yin).  
-Revision Requested, **Land Economics**
 
-3. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
+2. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
 (with Sumeet Gulati and Pushpendra Rana)
 
-4. **<u>"Off-Target Impacts of Targeted Policy: Evidence from Colombia."</u>** (email for draft)  
+3. **<u>"Off-Target Impacts of Targeted Policy: Evidence from Colombia."</u>** (email for draft)  
 (with Tatiana Zarate-Barrera)
 <a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-2')">[abstract]</a>  
 
