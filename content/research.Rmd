@@ -48,7 +48,7 @@ Informal titles expose tribal land to commercial exploitation. We show that form
 
 3. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
 
-4. "Decentralizing Forest Governance: A Clustered Randomized Experiment in the Himalayas."   
+4. "Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."   
 (with Pooja Choksi, Eric Coleman, Harry Fischer, Forrest Fleischman, Munib Khanyari, Pushpendra Rana, Erin Sills) [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/16090)] [*status: baseline survey completed*]
 
 ## Resting Papers
