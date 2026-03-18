@@ -20,18 +20,6 @@ title: "Research"
 
 ## Working Papers
 
-1. [**"Off-Target Impacts of Targeted Policy: Evidence from Colombia."**](/pdf/coca_colombia.pdf)  **Submitted.**  
-(with Tatiana Zarate-Barrera)
-
-2. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
-(with Sumeet Gulati and Pushpendra Rana)
-
-3. [**"Internal Migration and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf) **Submitted.**  
-(with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
-[[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)] 
-
-## Selected Works in Progress
-
 1. "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das)
 <a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-1')">[abstract]</a>  
 
@@ -39,13 +27,28 @@ title: "Research"
 Indigenous communities often inhabit ecologically sensitive land without formal property rights, leaving these lands vulnerable to commercial exploitation. Whether formalizing land rights can deter encroachment is an open question. We develop a model of firm behaviour which shows that tribal forest rights reduce *average* firm activity near tribal areas, but shift the *composition* toward larger firms. This happens because land rights raise land acquisition costs and reduce land prices. Higher transaction costs dominate for smaller firms, whereas large firms benefit more from cheaper land. We test the model's predictions using India's Forest Rights Act as a natural experiment, which granted forest rights to tribes in 2008. New data on deforestation permits filed by firms confirm that land demand declines post-policy in districts with high tribal forest-dependent populations, yet encroachment by sectors with large projects persists. Using a detailed firm panel, we further document an average decline in firms' land valuation due to falling land prices, with significantly smaller effects for large firms. Consequently, land conflicts and population displacement intensify post-reform, especially around surviving large projects. Our findings indicate re-sorting rather than a retreat of development pressure on tribal forest land.
 </div> 
 
-2. "Willingness to Pay for Biodiversity: Evidence from Recreation Demand."  
+2. [**"Off-Target Impacts of Targeted Policy: Evidence from Colombia."**](/pdf/coca_colombia.pdf)  **Submitted.**  
+(with Tatiana Zarate-Barrera)
+
+3. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
+(with Sumeet Gulati and Pushpendra Rana)
+
+4. [**"Internal Migration and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf) **Submitted.**  
+(with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
+[[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)] 
+
+## Selected Works in Progress
+
+1. "Willingness to Pay for Biodiversity: Evidence from Recreation Demand."  
 (with Matt Braaksma, Ryan Mcway, and Jovin Lasway) 
 
-3. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
+2. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
 
-4. "Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."   
+3. "Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."   
 (with Pooja Choksi, Eric Coleman, Harry Fischer, Forrest Fleischman, Munib Khanyari, Pushpendra Rana, Erin Sills) [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/16090)] [*status: baseline survey completed*]
+
+4. "Poisoned Landscapes: The Ecological Costs of Aerial Coca Eradication."  
+(with Colleen Miller and Tatiana Zarate-Barrera) 
 
 ## Resting Papers
 
