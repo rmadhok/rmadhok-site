@@ -21,7 +21,7 @@ title: "Research"
 
 ## Working Papers
 
-1. "Tribal Forest Rights and Firm Behaviour." (with Sabyasachi Das)
+1. "<u>Tribal Forest Rights and Firm Behaviour.</u>" (with Sabyasachi Das)
 <a class="dropdown-toggle" onclick="toggleDropdown('dropdown-content-1')">[abstract]</a>  
 
 <div id="dropdown-content-1" class="dropdown-content">  
@@ -40,16 +40,16 @@ Indigenous communities often inhabit ecologically sensitive land without formal 
 
 ## Selected Works in Progress
 
-1. "Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."   
+1. "<u>Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas.</u>"   
 (with P. Choksi, E. Coleman, H. Fischer, F. Fleischman, M. Khanyari, P. Rana, E. Sills)   
 [[AEA RCT Registry](https://www.socialscienceregistry.org/trials/16090)] [*status: baseline survey completed*]
 
-2. "Willingness to Pay for Biodiversity: Evidence from Recreation Demand."  
+2. "<u>Willingness to Pay for Biodiversity: Evidence from Recreation Demand. </u>"  
 (with Matt Braaksma, Ryan Mcway, and Jovin Lasway) 
 
-3. "Gross Ecosystem Product." (with [NatCap TEEMS](https://natcapteems.umn.edu/))
+3. "<u>Gross Ecosystem Product.</u>" (with [NatCap TEEMS](https://natcapteems.umn.edu/))
 
-4. "The Ecological Costs of Aerial Coca Eradication."  
+4. "<u>The Ecological Costs of Aerial Coca Eradication.</u>"      
 (with Colleen Miller and Tatiana Zarate-Barrera)
 
 ## Resting Papers
