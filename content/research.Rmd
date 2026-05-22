@@ -19,32 +19,32 @@ title: "Research"
 (with J.P. Bonardi, Q. Gallea, D. Kalanoski, R. Lalive, F. Noack, D. Rohner, and T. Sonno)   
 **Environmental Research Letters, 2021** 
 
-## Working Papers
+## Working Papers 
 
 1. [**"Tribal Forest Rights and Firm Behaviour."**](/pdf/forests_and_firms.pdf) (with Sabyasachi Das)  
 
-2. [**"Off-Target Impacts of Targeted Policy: Evidence from Colombia."**](/pdf/coca_colombia.pdf)  **Submitted.**  
+2. [**Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."**](/pdf/forest_hp_rct.pdf)   
+(with P. Choksi, E. Coleman, H. Fischer, F. Fleischman, M. Khanyari, P. Rana, E. Sills)  
+Conditionally Accepted via Pre-Results Review, **Journal of Development Economics**
+
+3. [**"Urban Growth and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf)  [[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)]  
+(with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
+Revision Requested, **American Economic Journal: Economic Policy**
+
+4. [**"Off-Target Impacts of Targeted Policy: Evidence from Colombia."**](/pdf/coca_colombia.pdf)  **Submitted.**  
 (with Tatiana Zarate-Barrera)
 
-3. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
+5. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
 (with Sumeet Gulati and Pushpendra Rana)
-
-4. [**"Urban Growth and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf) **Submitted.**  
-(with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
-[[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)] 
 
 ## Selected Works in Progress
 
-1. "<u>Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas.</u>"   
-(with P. Choksi, E. Coleman, H. Fischer, F. Fleischman, M. Khanyari, P. Rana, E. Sills)   
-[[AEA RCT Registry](https://www.socialscienceregistry.org/trials/16090)] [*status: baseline survey completed*]
-
-2. "<u>Willingness to Pay for Biodiversity: Evidence from Recreation Demand. </u>"  
+1. "<u>Willingness to Pay for Biodiversity: Evidence from Recreation Demand. </u>"  
 (with Matt Braaksma, Ryan Mcway, and Jovin Lasway) 
 
-3. "<u>Gross Ecosystem Product.</u>" (with [NatCap TEEMS](https://natcapteems.umn.edu/))
+2. "<u>Gross Ecosystem Product.</u>" (with [NatCap TEEMS](https://natcapteems.umn.edu/))
 
-4. "<u>The Ecological Costs of Aerial Coca Eradication.</u>"      
+3. "<u>The Ecological Costs of Aerial Coca Eradication.</u>"      
 (with Colleen Miller and Tatiana Zarate-Barrera)
 
 ## Resting Papers
