@@ -21,21 +21,21 @@ title: "Research"
 
 ## Working Papers 
 
-1. [**"Tribal Forest Rights and Firm Behaviour."**](/pdf/forests_and_firms.pdf) (with Sabyasachi Das)  
-
-2. [**Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."**](/pdf/forest_hp_rct.pdf)   
-(with P. Choksi, E. Coleman, H. Fischer, F. Fleischman, M. Khanyari, P. Rana, E. Sills)  
-Conditionally Accepted via Pre-Results Review, **Journal of Development Economics**
-
-3. [**"Urban Growth and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf)  [[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)]  
+1. [**"Urban Growth and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf)  [[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)]  
 (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
 Revision Requested, **American Economic Journal: Economic Policy**
 
-4. [**"Off-Target Impacts of Targeted Policy: Evidence from Colombia."**](/pdf/coca_colombia.pdf)  **Submitted.**  
+2. [**Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."**](/pdf/forest_hp_rct.pdf)   
+(with P. Choksi, E. Coleman, H. Fischer, F. Fleischman, M. Khanyari, P. Rana, E. Sills).  
+Conditionally Accepted via Pre-Results Review, **Journal of Development Economics**
+
+3. [**"Off-Target Impacts of Targeted Policy: Evidence from Colombia."**](/pdf/coca_colombia.pdf)  **Submitted.**  
 (with Tatiana Zarate-Barrera)
 
-5. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
+4. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
 (with Sumeet Gulati and Pushpendra Rana)
+
+5. [**"Tribal Forest Rights and Firm Behaviour."**](/pdf/forests_and_firms.pdf) (with Sabyasachi Das) 
 
 ## Selected Works in Progress
 
