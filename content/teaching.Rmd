@@ -5,11 +5,11 @@ title: Teaching
 <!-- <img src="/img/teaching.jpg" alt="Headshot" width="310" height="275" style="float:right; margin:10px 10px 10px 10px;" /> -->
 
 ### At University of Minnesota
-* APEC 3001: Intermediate Microeconomics [Undergraduate] (Fall 2025, 2026)
-* APEC 8604: Environmental \& Development Economics [PhD] (Fall 2024, 2026) [[Course Material]](https://github.com/rmadhok/enviro-dev-grad)
+* APEC 3001 [UG]: Intermediate Microeconomics (Fall 2025, 2026)
+* APEC 8604 [PhD]: Environmental \& Development Economics (Fall 2024, 2026) [[Course Material]](https://github.com/rmadhok/enviro-dev-grad)
 
 ### At University of British Columbia
-* FRE 460: Economics of Food Consumption (Winter 2022, Undergraduate) [[Syllabus]](/pdf/FRE460Syllabus-RM.pdf)
+* FRE 460 [UG]: Economics of Food Consumption (Winter 2022, Undergraduate) [[Syllabus]](/pdf/FRE460Syllabus-RM.pdf)
 
 <!-- ## Teaching Assistant -->
 <!-- * LFS 500: Topics in PhD Microeconomics (2018-19) -->
