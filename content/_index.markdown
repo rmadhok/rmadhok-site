@@ -9,7 +9,7 @@ title: About
 
 My research is at the intersection of environmental economics, development economics, and political economy. My work studies how economic activity and institutions shape the environment in developing countries.
 
-I am also a Faculty Affiliate of [NatCap TEEMS](https://natcapteems.umn.edu/) and the [Minnesota Population Center](https://pop.umn.edu/primary-research-areas/spatial-and-environmental-demography).
+I am also a Faculty Affiliate of [NatCap TEEMS](https://natcapteems.umn.edu/), the [Interdisciplinary Center for Global Chage](https://icgc.umn.edu/), and the [Minnesota Population Center](https://pop.umn.edu/primary-research-areas/spatial-and-environmental-demography).
 
 I completed my PhD and MA from the University of British Columbia, and my BA from McGill University. <!-- I was previously an [EPoD](https://epod.cid.harvard.edu/) fellow at Harvard and a Research Associate at [J-PAL South Asia](https://www.povertyactionlab.org/south-asia). -->
 
