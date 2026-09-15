@@ -4,39 +4,39 @@ title: "Research"
 
 ## Publications
 
-1. [**"Cash Crops and The Development-Environment Tradeoff: Evidence from Benin."**](https://le.uwpress.org/content/early/2026/04/06/le.102.4.060225-0044R2)  
+1. [**"Internal Migration and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf)  [[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)]  
+(with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
+Conditionally Accepted, **American Economic Journal: Economic Policy**
+
+2. [**"Cash Crops and The Development-Environment Tradeoff: Evidence from Benin."**](https://le.uwpress.org/content/early/2026/04/06/le.102.4.060225-0044R2)  
 (with Zhenong Jin and Leikun Yin). **Land Economics, 2026**  
 [[pdf]](/pdf/cashews_benin.pdf)[[appendix]](/pdf/cashews_benin_appendix.pdf) 
 
-2. [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](https://www.journals.uchicago.edu/doi/10.1086/735284)  
+3. [**"Infrastructure, Institutions, and the Conservation of Biodiversity in India."**](https://www.journals.uchicago.edu/doi/10.1086/735284)  
 **Journal of the Association of Environmental and Resource Economists, 2025**   
 [[pdf]](/pdf/rmadhok_jmp_2022.pdf)[[appendix]](/pdf/jmp_appendix.pdf)[[podcast]](https://ideasofindia.libsyn.com/next-guest)[[commentary]](https://voxdev.org/topic/energy-environment/can-inclusive-institutions-balance-development-biodiversity-trade)
 
-3. [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
+4. [**"Ruling The Roost: Avian Species Reclaim Urban Habitat During India's COVID-19 Lockdown."**](https://www.sciencedirect.com/science/article/pii/S0006320722001501)   
 (with Sumeet Gulati). **Biological Conservation, 2022**
 
-4. [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
+5. [**"Saving the world from your couch: The heterogeneous benefits of COVID-19 lockdowns on air pollution."**](https://iopscience.iop.org/article/10.1088/1748-9326/abee4d)  
 (with J.P. Bonardi, Q. Gallea, D. Kalanoski, R. Lalive, F. Noack, D. Rohner, and T. Sonno)   
 **Environmental Research Letters, 2021** 
 
 ## Working Papers 
 
-1. [**"Internal Migration and the Spatial Reorganization of Agriculture."**](/pdf/2022_rural_urban_agriculture.pdf)  [[NBER WP](https://www.nber.org/papers/w33854)][[commentary](https://www.ideasforindia.in/topics/agriculture/internal-migration-and-spatial-reorganisation-of-agriculture.html)]  
-(with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
-Revised and resubmitted, **American Economic Journal: Economic Policy**
-
-2. [**Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."**](/pdf/forest_hp_rct.pdf)   
+1. [**Does Women's Autonomy Improve Forest Restoration? Experimental Evidence from the Himalayas."**](/pdf/forest_hp_rct.pdf)   
 (with P. Choksi, E. Coleman, H. Fischer, F. Fleischman, M. Khanyari, P. Rana, E. Sills).  
 Accepted (pre-results review), **Journal of Development Economics**
+
+2. [**"Indigenous Land Rights and Firm Behaviour."**](/pdf/forests_and_firms.pdf) **Submitted.**  
+(with Sabyasachi Das)
 
 3. [**"Off-Target Impacts of Targeted Policy: Evidence from the World's Largest Anti-Narcotics Intervention."**](/pdf/coca_colombia.pdf)   
 (with Tatiana Zarate-Barrera). **Submitted.** 
 
 4. [**"Ethnic Favouritism in Environmental Disaster Payouts."**](/pdf/favouritism_hwc.pdf)  **Submitted.**  
 (with Sumeet Gulati and Pushpendra Rana)
-
-5. [**"Indigenous Land Rights and Firm Behaviour."**](/pdf/forests_and_firms.pdf) **Submitted.**  
-(with Sabyasachi Das)
 
 ## Selected Works in Progress
 
