@@ -8,7 +8,7 @@ title: "Research"
 (with Frederik Noack, Mushfiq Mobarak, and Olivier Deschenes)  
 Conditionally Accepted, **American Economic Journal: Economic Policy**
 
-2. [**"Cash Crops and The Development-Environment Tradeoff: Evidence from Benin."**](https://le.uwpress.org/content/early/2026/04/06/le.102.4.060225-0044R2)  
+2. [**"Cash Crops and The Development-Environment Tradeoff: Evidence from Benin."**](https://le.uwpress.org/content/102/4/646)  
 (with Zhenong Jin and Leikun Yin). **Land Economics, 2026**  
 [[pdf]](/pdf/cashews_benin.pdf)[[appendix]](/pdf/cashews_benin_appendix.pdf) 
 
@@ -48,7 +48,7 @@ Accepted (pre-results review), **Journal of Development Economics**
 
 3. "<u>Gross Ecosystem Product.</u>" (with [NatCap TEEMS](https://natcapteems.umn.edu/))
 
-4. "<u>Eradicating Illicit Coca with Aerial Glyphosate Spraying Causes Persistent Biodiversity Loss.</u>"      
+4. "<u>Aerial Glyphosate Spraying Causes Persistent Biodiversity Loss.</u>"      
 (with Colleen Miller and Tatiana Zarate-Barrera)
 
 ## Resting Papers
